@@ -2,9 +2,10 @@
 
 👩🏻‍💻 Aspiring Software Developer Learning On My Own  
 👩🏻‍🎓 Learning Software Development At Home 
+
 🎨 Always Making New Things  
 🌷 #learninginpublic In My Digital Garden  
-💭 Currently Learning About HTML and CSS
+💭 Currently Learning About HTML and CSS 
 ❤ Check out my boyfriends portfolio at greedsss.com 
 
 # 📊 GitHub Stats:
